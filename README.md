@@ -1,5 +1,5 @@
 # Projeto 2: 
-![Screenshot do projeto]().
+![Screenshot do projeto](./image.png).
 
 #### Deploy
 
