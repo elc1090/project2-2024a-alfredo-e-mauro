@@ -27,7 +27,7 @@ Criamos nossa própria API para atender às requisições do nosso jogo:
 https://flags-api-8ul8.onrender.com
 
 Endpoints: 
-/random -> disponibiliza um país aleatório para que o jogador tente adivinhar
+/random -> disponibiliza um país aleatório para que o jogador tente adivinhar  
 /names -> retorna uma lista de todos os nomes de países para a caixa de pesquisa
 
 ### Desenvolvimento
