@@ -1,6 +1,6 @@
 # Projeto: Consumindo uma API pública
 
-![Screenshot do seu projeto](./image.png "Screenshot do projeto")
+![Screenshot do seu projeto](https://github.com/elc1090/project2-2024a-alfredo-e-mauro/assets/76018038/9cfdc9a1-eee6-4983-b50f-cb69b3784bf3)
 
 
 Acesso:  
@@ -44,6 +44,7 @@ Frontend:
 - CSS
 - Javascript
 - Bootstrap
+- ChatGPT(menu de sugestoes)
 
 Backend:
 - NodeJS
