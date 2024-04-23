@@ -26,9 +26,9 @@ Apresentamos uma maneira divertida de explorar as bandeiras dos diversos países
 Criamos nossa própria API para atender às requisições do nosso jogo:
 https://flags-api-8ul8.onrender.com
 
-Endpoints: 
-/random -> disponibiliza um país aleatório para que o jogador tente adivinhar  
-/names -> retorna uma lista de todos os nomes de países para a caixa de pesquisa
+Endpoints:  
+/random -> disponibiliza um país aleatório para que o jogador tente adivinhar;  
+/names -> retorna uma lista de todos os nomes de países para a caixa de pesquisa;
 
 ### Desenvolvimento
 
@@ -44,7 +44,6 @@ Frontend:
 - CSS
 - Javascript
 - Bootstrap
-- ChatGPT(menu de sugestoes)
 
 Backend:
 - NodeJS
@@ -60,6 +59,7 @@ Backend:
 
 - Referência Javascript: https://developer.mozilla.org/
 - Guias Javascript e JSON: https://www.freecodecamp.org/
+- ChatGPT (menu de sugestoes)
 
 ---
 Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2024a) em 2024a
